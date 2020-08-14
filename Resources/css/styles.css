@@ -21,7 +21,7 @@ header h1 {
     margin: 2.5rem 0;
 }
 
-header span a {
+span a {
     font-size: 1rem;
     color: aquamarine;
 }
@@ -41,4 +41,9 @@ header span a {
     color: grey;
     font-size: 1.3125rem;
     margin: 2rem 0;
+}
+
+.footerp {
+    color: grey;
+    text-align: right;
 }
