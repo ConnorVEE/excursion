@@ -29,3 +29,16 @@ header span a {
 #main {
     text-align: center;
 }
+
+#main h3 {
+    color: white;
+    font-size: 2.625rem;
+    font-weight: 300;
+    margin: 2rem 0;
+}
+
+#main p {
+    color: grey;
+    font-size: 1.3125rem;
+    margin: 2rem 0;
+}
